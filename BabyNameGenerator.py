@@ -1,4 +1,4 @@
-""" This program generates baby names using the name from famous actors and musicians. """
+""" This program generates baby names using the name from famous actors and musicians. These are all real and bad. """
 
 import random, sys
 
